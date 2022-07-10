@@ -1,4 +1,5 @@
 *.DS_Store
 GNS3/
 wireshark/
-
+htop/
+fish/
